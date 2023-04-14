@@ -22,10 +22,8 @@ This project provided a deeper understanding of the challenges in designing and 
 
 ## Future Work
 
-There are plans to revisit and improve this project in the future. Potential improvements include:
+There are plans to revisit and improve this project in the future.
 
-- Utilizing existing neural network libraries and frameworks to streamline the implementation
-- Experimenting with different network architectures and activation functions
-- Implementing reinforcement learning techniques for more effective training
+## License
 
-In the meantime, this project serves as a testament to the learning process and a reminder of the importance of leveraging community knowledge and resources.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
